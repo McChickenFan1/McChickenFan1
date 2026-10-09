@@ -9,7 +9,8 @@
     </td>
     <!-- Prawa kolumna: Twój tekst -->
     <td valign="top" style="padding-left: 20px;">
-      <h1>Cześć, jestem McChinkenFan1! 👋</h1>
-      <p>Tutaj możesz wpisać cokolwiek chcesz. Twój tekst będzie idealnie wyrównany do góry i wyświetli się po prawej stronie śpiącego Raymana.</p>
+      <h1>⬇Fandoms⬇</h1>
+      <p>Evade, Dandys world, Rayman, Rick and Morty, FNaF, DSaF, forsaken, Roblox myth, Worriors cats, Blok ekipa, Egzorcysta, Kapitan bomba, Władcy móch, Mr fantastic fox, Southpark, Moral orel, Minecraft, DAWTDE, Lego movie, Undertale, Deltarune.</p>
     </td>
   </tr>
+<img src="https://tenor.com" width="200" alt="slipi" />
